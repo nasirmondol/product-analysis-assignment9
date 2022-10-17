@@ -5,11 +5,11 @@ import './Header.css';
 const Header = () => {
     return (
         <nav className='header'>
-            <CustomLink className='style' to='/'>HOME</CustomLink>
-            <CustomLink className='style' to='/reviews'>REVIEWS</CustomLink>
-            <CustomLink className='style' to='/dashboard'>DASHBOARD</CustomLink>
-            <CustomLink className='style' to='/blogs'>BLOGS</CustomLink>
-            <CustomLink className='style' to='/about'>ABOUT</CustomLink>
+            <CustomLink to='/'>HOME</CustomLink>
+            <CustomLink to='/reviews'>REVIEWS</CustomLink>
+            <CustomLink to='/dashboard'>DASHBOARD</CustomLink>
+            <CustomLink to='/blogs'>BLOGS</CustomLink>
+            <CustomLink to='/about'>ABOUT</CustomLink>
         </nav>
     );
 };
