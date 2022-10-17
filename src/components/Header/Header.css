@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.header a{
+    margin: 20px;
+    color: whitesmoke;
+}
+
+.header a:hover{
+    background-color: aquamarine;
+    padding: 3px;
+    border-radius: 4px;
+}
