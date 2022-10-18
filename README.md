@@ -2,7 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## <h2>Customer Review Page</h2>
+## <h2>Project: Customer Review Page</h2>
+
+## <h2>Four main concepts of this project.</h2>
+1. Using react router
+2. Tailwind css framework with react.
+3. Blogs post display in this project.
+4. Have an dashboard and in rechart.
 
 In the project directory, you can run:
 
